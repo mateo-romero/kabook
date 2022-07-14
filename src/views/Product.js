@@ -42,6 +42,7 @@ export default function Product({
   const navigatee = useNavigate();
   let main = useRef();
   let headerProduct = useRef();
+
   let api = fetchUtil();
   let url = "https://kahoot12.herokuapp.com/products/" + params.productId;
 
