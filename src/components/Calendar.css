@@ -1,0 +1,95 @@
+div .react-datepicker-wrapper, div .react-datepicker__input-container, input {
+  height: 100%;
+  width: 100%;
+  border: none;
+}
+.react-datepicker {
+  border-radius: 2px;
+}
+div .react-datepicker__input-container > input::placeholder {
+  padding-left: 1em;
+  color: #545776;
+}
+div .react-datepicker__input-container > input:focus-visible {
+  outline:none;
+}
+div .react-datepicker__header--custom {
+  background-color: white;
+}
+div .react-datepicker__header {
+  border-bottom: none;
+  text-transform: capitalize;
+}
+div .react-datepicker__day--selected {
+  background-color: #1DBEB4;
+  border-radius: 50%;
+}
+div .react-datepicker__day--keyboard-selected{
+  color:black;
+}
+div .react-datepicker__triangle {
+  display: none;
+}
+div .react-datepicker__day:hover {
+  border-radius: 50%;
+}
+div .react-datepicker__day-name {
+  color: #545776;
+  font-weight: 700;
+}
+div .react-datepicker__day-names {
+  border-bottom: none;
+}
+.react-datepicker__close-icon::after {
+  background-color: #1DBEB4 !important;
+}
+div.react-datepicker__day--selected,
+div.react-datepicker__day--in-selecting-range,
+div.react-datepicker__day--in-range,
+div.react-datepicker__day--selecting-range-start {
+  background-color: #1DBEB4;
+  border-radius: 50%;
+  color:white;
+}
+div.react-datepicker__day--selected:hover,
+div.react-datepicker__day--in-selecting-range:hover,
+div.react-datepicker__day--in-range:hover,
+div.react-datepicker__day--selecting-range-start:hover,
+div.react-datepicker__day--in-selecting-range:hover,
+div.react-datepicker__day--in-range:hover {
+  background-color: #1DBEB450;
+
+}
+.react-datepicker__navigation--nextProduct{
+    right:-70px;
+    top:120px !important;
+    background-color: #1DBEB4 !important;
+    border-radius: 50% !important ;
+    transform: scale(1.05);
+}
+.react-datepicker__navigation--previousProduct{
+    left:-70px;
+    top:120px !important;
+    background-color: #1DBEB4 !important;
+    border-radius: 50% !important ;
+    transform: scale(1.05);
+   
+}
+@media all and (max-width:700px){
+  .react-datepicker__navigation--previousProduct{
+    left:-40px;
+  }
+  .react-datepicker__navigation--nextProduct{
+    right:-40px;
+
+  }
+}
+.needFlex{
+  display: flex;
+  justify-content: center;
+
+}
+.cotainerCalendarImportant{
+  height: auto !important;
+  padding: 10px !important;
+}

@@ -1,0 +1,54 @@
+[  
+  {
+    "id": "1",
+    "category": "Hotel",
+    "name": "Hermitage Hotel",
+    "stars": 3,
+    "calification": 8,
+    "calificationInText": "Muy bueno", 
+    "hasWifi": true,
+    "hasPool": true,
+    "distanceFromUptown": "A 940 m del centro",
+    "img": "https://images.pexels.com/photos/164595/pexels-photo-164595.jpeg",
+    "description": "En el corazon de San Telmo, disfruta de un algergue inspirado en las pasiones de buenos aires. "
+  },
+  {
+    "id": "2",
+    "category": "Hotel",
+    "name": "Palace Hotel",
+    "stars": 5,
+    "calification": 8,
+    "calificationInText": "Muy bueno", 
+    "hasWifi": true,
+    "hasPool": true,
+    "distanceFromUptown": "A 940 m del centro",
+    "img": "https://images.pexels.com/photos/164595/pexels-photo-164595.jpeg",
+    "description": "En el corazon de San Telmo, disfruta de un algergue inspirado en las pasiones de buenos aires. "
+  },
+  {
+    "id": "3",
+    "category": "Hotel",
+    "name": "Grand Hotel",
+    "stars": 5,
+    "calification": 8,
+    "calificationInText": "Muy bueno", 
+    "hasWifi": true,
+    "hasPool": true,
+    "distanceFromUptown": "A 940 m del centro",
+    "img": "https://images.pexels.com/photos/164595/pexels-photo-164595.jpeg",
+    "description": "En el corazon de San Telmo, disfruta de un algergue inspirado en las pasiones de buenos aires. "
+  },
+  {
+    "id": "4",
+    "category": "Hotel", 
+    "name": "Paris Hotel",
+    "stars": 5,
+    "calification": 8,
+    "calificationInText": "Muy bueno", 
+    "hasWifi": true,
+    "hasPool": true,
+    "distanceFromUptown": "A 940 m del centro",
+    "img": "https://images.pexels.com/photos/164595/pexels-photo-164595.jpeg",
+    "description": "En el corazon de San Telmo, disfruta de un algergue inspirado en las pasiones de buenos aires. "
+  }
+] 

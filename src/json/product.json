@@ -1,0 +1,64 @@
+[  
+    {
+      "id": "1",
+      "category": "Hotel",
+      "name": "Hermitage Hotel",
+      "stars": 3,
+      "calification": 8,
+      "calificationInText": "Muy bueno", 
+      "hasWifi": true,
+      "hasPool": true,
+      "ubication":"buenos aires",
+      "distanceFromUptown": "A 940 m del centro",
+      "imgs": ["https://images.pexels.com/photos/730896/pexels-photo-730896.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940","https://images.pexels.com/photos/301614/pexels-photo-301614.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940","https://images.pexels.com/photos/730896/pexels-photo-730896.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940","https://images.pexels.com/photos/164595/pexels-photo-164595.jpeg","https://images.pexels.com/photos/164595/pexels-photo-164595.jpeg"],
+      "description": "En el corazon de San Telmo, disfruta de un algergue inspirado en las pasiones de buenos aires. ",
+      "descriptionTitle": "En el corazon de San Telmo"
+
+    },
+    {
+      "id": "2",
+      "category": "Hotel",
+      "name": "Palace Hotel",
+      "stars": 5,
+      "calification": 8,
+      "calificationInText": "Muy bueno", 
+      "hasWifi": true,
+      "hasPool": true,
+      "ubication":"buenos aires",
+      "distanceFromUptown": "A 940 m del centro",
+      "imgs": ["https://images.pexels.com/photos/164595/pexels-photo-164593.jpeg","https://images.pexels.com/photos/164595/pexels-photo-164591.jpeg","https://images.pexels.com/photos/164595/pexels-photo-164595.jpeg","https://images.pexels.com/photos/164595/pexels-photo-164595.jpeg","https://images.pexels.com/photos/164595/pexels-photo-164595.jpeg","https://images.pexels.com/photos/164595/pexels-photo-164595.jpeg","https://images.pexels.com/photos/164595/pexels-photo-164595.jpeg","https://images.pexels.com/photos/164595/pexels-photo-164595.jpeg","https://images.pexels.com/photos/164595/pexels-photo-164595.jpeg","https://images.pexels.com/photos/164595/pexels-photo-164595.jpeg","https://images.pexels.com/photos/164595/pexels-photo-164595.jpeg","https://images.pexels.com/photos/164595/pexels-photo-164595.jpeg","https://images.pexels.com/photos/164595/pexels-photo-164595.jpeg","https://images.pexels.com/photos/164595/pexels-photo-164595.jpeg"],
+      "description": "En el corazon de San Telmo, disfruta de un algergue inspirado en las pasiones de buenos aires. ",
+      "descriptionTitle": "En el corazon de San Telmo"
+    },
+    {
+      "id": "3",
+      "category": "Hotel",
+      "name": "Grand Hotel",
+      "stars": 5,
+      "calification": 8,
+      "calificationInText": "Muy bueno", 
+      "hasWifi": true,
+      "hasPool": true,
+      "ubication":"buenos aires",
+      "distanceFromUptown": "A 940 m del centro",
+      "imgs": ["https://images.pexels.com/photos/164595/pexels-photo-164593.jpeg","https://images.pexels.com/photos/164595/pexels-photo-164591.jpeg","https://images.pexels.com/photos/164595/pexels-photo-164595.jpeg","https://images.pexels.com/photos/164595/pexels-photo-164595.jpeg","https://images.pexels.com/photos/164595/pexels-photo-164595.jpeg","https://images.pexels.com/photos/164595/pexels-photo-164595.jpeg","https://images.pexels.com/photos/164595/pexels-photo-164595.jpeg","https://images.pexels.com/photos/164595/pexels-photo-164595.jpeg","https://images.pexels.com/photos/164595/pexels-photo-164595.jpeg","https://images.pexels.com/photos/164595/pexels-photo-164595.jpeg","https://images.pexels.com/photos/164595/pexels-photo-164595.jpeg","https://images.pexels.com/photos/164595/pexels-photo-164595.jpeg","https://images.pexels.com/photos/164595/pexels-photo-164595.jpeg","https://images.pexels.com/photos/164595/pexels-photo-164595.jpeg"],
+      "description": "En el corazon de San Telmo, disfruta de un algergue inspirado en las pasiones de buenos aires. ",
+      "descriptionTitle": "En el corazon de San Telmo"
+    
+    },
+    {
+      "id": "4",
+      "category": "Hotel", 
+      "name": "Paris Hotel",
+      "stars": 5,
+      "calification": 8,
+      "calificationInText": "Muy bueno", 
+      "hasWifi": true,
+      "hasPool": true,
+      "ubication":"buenos aires",
+      "distanceFromUptown": "A 940 m del centro",
+      "imgs": ["https://images.pexels.com/photos/164595/pexels-photo-164593.jpeg","https://images.pexels.com/photos/164595/pexels-photo-164591.jpeg","https://images.pexels.com/photos/164595/pexels-photo-164595.jpeg","https://images.pexels.com/photos/164595/pexels-photo-164595.jpeg","https://images.pexels.com/photos/164595/pexels-photo-164595.jpeg","https://images.pexels.com/photos/164595/pexels-photo-164595.jpeg","https://images.pexels.com/photos/164595/pexels-photo-164595.jpeg","https://images.pexels.com/photos/164595/pexels-photo-164595.jpeg","https://images.pexels.com/photos/164595/pexels-photo-164595.jpeg","https://images.pexels.com/photos/164595/pexels-photo-164595.jpeg","https://images.pexels.com/photos/164595/pexels-photo-164595.jpeg","https://images.pexels.com/photos/164595/pexels-photo-164595.jpeg","https://images.pexels.com/photos/164595/pexels-photo-164595.jpeg"],
+      "description": "En el corazon de San Telmo, disfruta de un algergue inspirado en las pasiones de buenos aires. ",
+      "descriptionTitle": "En el corazon de San Telmo"
+    }
+  ] 

@@ -1,0 +1,26 @@
+[  
+    {
+      "id": "1",
+      "category": "Hoteles",
+      "amount": 12000,
+      "img": "https://images.pexels.com/photos/164595/pexels-photo-164595.jpeg"
+    },
+    {
+      "id": "2",
+      "category": "Hostels",
+      "amount": 500,
+      "img": "https://images.pexels.com/photos/164595/pexels-photo-164595.jpeg"
+    },
+    {
+      "id": "3",
+      "category": "Departamentos",
+      "amount": 1000,
+      "img": "https://images.pexels.com/photos/164595/pexels-photo-164595.jpeg"
+    },
+    {
+      "id": "4",
+      "category": "Bed and breakfast", 
+      "amount": 5000,
+      "img":"https://images.pexels.com/photos/164595/pexels-photo-164595.jpeg"
+    }
+  ] 
