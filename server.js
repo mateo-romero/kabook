@@ -7,7 +7,10 @@ const app = express();
 app.use(favicon(__dirname + "/public/favicon.png"));
 // the __dirname is the current directory from where the script is running
 
-app.use(express.static(path.join(__dirname, "build")));
+var distDir = __dirname + "/dist/";
+
+app.use(express.static(distDir));
+
 app.get("/ping", function (req, res) {
   return res.send("pong");
 });
