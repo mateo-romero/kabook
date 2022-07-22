@@ -25,7 +25,7 @@ import {
   Overlays,
   Controls,
   Map,
-  Layer,
+  Layers,
   Overlay,
   Util,
 } from "react-openlayers";
